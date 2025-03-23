@@ -1,35 +1,21 @@
 # ConvertEase
 
-ConvertEase é uma aplicação web moderna e intuitiva para conversão de arquivos de áudio e vídeo. Desenvolvida com React e TypeScript, oferece uma interface amigável para transformar seus arquivos de mídia em diferentes formatos.
+ConvertEase is a modern and intuitive web application for converting audio and video files. Developed with React and TypeScript, it offers a user-friendly interface to transform your media files into different formats.
 
-## Funcionalidades
+## Features
 
-- Conversão de arquivos de áudio para formatos MP3, WAV, OGG e M4A
-- Suporte para arquivos de vídeo (em desenvolvimento)
-- Interface moderna e responsiva
-- Processamento local seguro dos arquivos
-- Download instantâneo após a conversão
+- Audio file conversion to MP3, WAV, OGG, and M4A formats
+- Video file support (in development)
+- Modern and intuitive interface
+- Secure local file processing
 
-## Tecnologias Utilizadas
+## Technologies
 
-- React 18
+- React
 - TypeScript
-- Vite
-- TailwindCSS
-- Web Audio API
+- FFmpeg.wasm
+- Tailwind CSS
 
-## Como Executar
+## License
 
-1. Instale as dependências:
-   ```bash
-   npm install
-   ```
-2. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
-3. Acesse a aplicação em `http://localhost:5173`
-
-## Licença
-
-Este projeto está sob a licença MIT.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
